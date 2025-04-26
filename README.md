@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sintu69
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on Linux
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently learning PYTHON 
 - 📫 How to reach me sintu.phs69@gmail.com
 
 <!---
