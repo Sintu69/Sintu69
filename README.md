@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sintu69
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning PYTHON 
-- 📫 How to reach me sintu.phs69@gmail.com
+- 📫 How to reach me sintu69@duck.com
 
 <!---
 Sintu69/Sintu69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
